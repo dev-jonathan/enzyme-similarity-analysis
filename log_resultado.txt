@@ -1,0 +1,19 @@
+Comparando Hamster e Rato:
+  Matches Simples: 755
+  Distância Manhattan: 10
+  Distância Euclidiana: 4.69041575982343
+  Distância Supremum: 3
+  Similaridade de Cosseno: 0.9997532493481444
+
+Comparando Hamster e Cavalo:
+  Matches Simples: 745
+  Distância Manhattan: 18
+  Distância Euclidiana: 7.3484692283495345
+  Distância Supremum: 5
+  Similaridade de Cosseno: 0.9993966457604412
+
+Comparando Rato e Cavalo:
+  Matches Simples: 746
+  Distância Manhattan: 24
+  Distância Euclidiana: 8.717797887081348
+  Distância Supremum: 5
